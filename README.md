@@ -6,4 +6,4 @@ cd tiktokers
 
 git pull
 
-python2 ngobrol.py 
+python2 ngontol.py 
